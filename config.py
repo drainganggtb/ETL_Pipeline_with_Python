@@ -1,2 +1,2 @@
 # Api Key
-gkey = 'AIzaSyCiB7nV3hJV-lfaKa1Quo6_EFxiSqfvikg'
+gkey = 'AIzaSyAuQLcV7VJEMolYoEVym53T8m6B86UOKaI'
